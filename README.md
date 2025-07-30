@@ -1,1 +1,1 @@
-# smart-counter
+# verilog codes
